@@ -3,18 +3,21 @@
 - [ ] I've filled the `contributions.json` file
 
 # Issues this PR Resolves 🚀
-- Link to the Issue:
-- Link to the resolving PR on 3rd party repo:
+- Link to the Issue:https://chainide.com/
+- Link to the resolving PR on 3rd party repo:https://chainide.gitbook.io/chainide-english-1/
 
 # Contributor social handles (Github / Twitter / Telegram) 🎙️
 1. Example Contributor
-   - Github: [scroll-tech](https://github.com/scroll-tech)
-   - Twitter: [Scroll_ZKP](https://twitter.com/Scroll_ZKP)
+   - Github: [scroll-tech](https://github.com/padom2020)
+   - Twitter: [Scroll_ZKP](https://twitter.com/techydom)
 2. Example Anonymous Contributor
    - Github: anon
 
 # Contribution Description 📝
-_Describe your work in more details here_
+My contribution is highlighting the fact that it is neccessary to have scroll on the chainide multichain IDE which can make smart contract development super easy for developers.
+Being part of their community and having been using their tools and in contact with some key persons there i can proceed with initiating scroll integration on chainide if giving the go ahead. Will be glad to assist and help have scroll on chainide.
 
 # Additional Resources 🔗
-_Add any additional links you feel like will help with the review here (Contract Address, Deployer Address, Links to the code etc.)_
+Here is their social media handles which can enable easy communication for integration
+twitter:https://twitter.com/ChainIde
+telegram: https://t.me/ChainIDEdevelopers
